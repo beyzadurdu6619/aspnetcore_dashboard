@@ -14,6 +14,7 @@ Geliştirilen sistem, **giriş paneli, ürün yönetimi, müşteri yönetimi, ka
 - **E-posta** ve **şifre** ile giriş yapılabilir.  
 - Yeni kullanıcı kaydı oluşturulabilir.  
 - Şifre sıfırlama işlemleri mevcuttur.  
+![Login](https://github.com/user-attachments/assets/6f5e427c-f81b-4f0a-ba49-194651eeb446)
 
 ### 📦 Ürün Yönetimi  
 - Mevcut ürünler listelenebilir.  
