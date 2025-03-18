@@ -20,22 +20,29 @@ Geliştirilen sistem, **giriş paneli, ürün yönetimi, müşteri yönetimi, ka
 - Mevcut ürünler listelenebilir.  
 - Ürün ekleme, güncelleme ve silme işlemleri yapılabilir.  
 - Ürünler, belirli kategorilere atanabilir.  
+![Ürünler Listesi](https://github.com/user-attachments/assets/6ee02c9d-00ab-4a81-a3ca-6158cdd0dd24)
+![Ürün Ekleme Sayfası](https://github.com/user-attachments/assets/232068a8-881f-4ac4-9824-e682091c4229)
 
 ### 👥 Müşteri Yönetimi  
 - Kayıtlı müşteriler görüntülenebilir.  
 - Yeni müşteri ekleme, müşteri bilgilerini güncelleme ve silme işlemleri yapılabilir.  
+![Müşteriler](https://github.com/user-attachments/assets/5c39da1d-fef7-4c11-bb84-522a9d8924b9)
+![Müşteri Ekleme](https://github.com/user-attachments/assets/890da4a9-8779-4159-be4c-2f32f719fb3a)
 
 ### 🏷️ Kategori Yönetimi  
 - Kategoriler listelenebilir.  
 - Yeni kategori eklenebilir, mevcut kategoriler düzenlenebilir veya silinebilir.  
+![Kategori](https://github.com/user-attachments/assets/869ba087-7afb-49ac-ad31-2f3ffd0f932d)
 
 ### 👩‍💼 Meslek Yönetimi  
 - Meslek listesi görüntülenebilir.  
 - Yeni meslek eklenebilir, mevcut meslekler güncellenebilir veya silinebilir.  
+![Meslekler](https://github.com/user-attachments/assets/087b5c50-2519-49b0-9ee6-620300d876c7)
 
 ### 🔒 Şifre İşlemleri & Profil Yönetimi  
 - Kullanıcılar profil bilgilerini güncelleyebilir.  
 - Şifre değiştirme ve güvenlik ayarlarını düzenleme imkânı sunar.  
+![Profil Güncelleme Sayfası](https://github.com/user-attachments/assets/9f69c198-a1f5-4d86-aa70-a680302de536)
 
 ### ℹ️ Yardım Modülü  
 - Kullanıcıların sistem hakkında bilgi alabileceği bir rehber sunulmaktadır.  
